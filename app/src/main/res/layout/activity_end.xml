@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".secondActivity"
+    android:orientation="vertical"
+    android:background="#c8a99e">
+    <Button
+        android:id="@+id/END"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:backgroundTint="#ee9086"
+        android:text="Завершить"
+        android:textSize="25dp"></Button>
+
+</LinearLayout>
